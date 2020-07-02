@@ -8,7 +8,7 @@ Une analyse a été réalisée par votre chef de projet et il a morcelé le tout
 Dans un premier temps, l'application devra juste pouvoir permettre la saisie des groupes.
 Et il vous demande d'en réaliser la modélisation de la base de données.
 
-Chaque groupe devra s'inscrire et saisir l'ensemble des musiciens.
+Chaque groupe devra s'inscrire et saisir l'ensemble des musiciens qui le composent.
 Un groupe se distinguera par un nom, une catégorie de musique, un pays d'origine, un email de contact, une ou plusieurs photos, une description, des instruments qui le composent et d'un tarif de prestation en euros.
 Un musicien peut appartenir à plusieurs groupes.
 Chaque musicien aura également sa propre fiche avec son nom et prénom, un descriptif ainsi qu'une liste des instruments qu'il sait jouer.
